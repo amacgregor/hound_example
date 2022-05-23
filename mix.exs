@@ -23,7 +23,6 @@ defmodule HoundExample.MixProject do
   defp deps do
     [
       {:hound, "~> 1.0"}
-
     ]
   end
 end
